@@ -17,6 +17,7 @@ v05.py
 Analysis-1.csv (or any CSV file with the same format)
 
 How to Use
+PDF user guide: Standalone 3D Interactive Stress viewer.pdf
 
 Open v05.py in Python (requires standard Python libraries like pandas and plotly).
 
@@ -29,8 +30,6 @@ Open Prepromax_interactive_stress_plot.html in any web browser.
 Note: The script has been successfully run on Google Colab, so you can also execute it online without installing Python locally.
 
 Example Output
-
-PDF user guide: Standalone 3D Interactive Stress viewer.pdf
 
 HTML viewer: Prepromax_interactive_stress_plot.html
 
