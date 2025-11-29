@@ -33,3 +33,9 @@ Example Output
 PDF user guide: Standalone 3D Interactive Stress viewer.pdf
 
 HTML viewer: Prepromax_interactive_stress_plot.html
+
+⚡ Upcoming Other Phyton script
+
+I am currently working on Python scripts to convert PrePoMax .frd analysis outputs to CSV files containing X, Y, Z, and stress values.
+
+The scripts are ready but need further testing before being shared.
