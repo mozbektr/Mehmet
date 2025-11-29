@@ -16,8 +16,7 @@ v05.py
 
 Analysis-1.csv (or any CSV file with the same format)
 
-How to Use
-PDF user guide: Standalone 3D Interactive Stress viewer.pdf
+How to Use: -->Standalone 3D Interactive Stress viewer.pdf
 
 Open v05.py in Python (requires standard Python libraries like pandas and plotly).
 
