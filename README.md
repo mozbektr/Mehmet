@@ -26,8 +26,11 @@ Run the script; it will generate an interactive 3D HTML viewer.
 
 Open the output file Prepromax_interactive_stress_plot.html in any web browser.
 
+Note: The script has been successfully run on Google Colab, so you can also execute it online without installing Python locally.
+
 Example Output
 
 PDF user guide: Standalone 3D Interactive Stress viewer.pdf
 
+HTML viewer: Prepromax_interactive_stress_plot.html
 HTML viewer: Prepromax_interactive_stress_plot.html
